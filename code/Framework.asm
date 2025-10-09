@@ -1,7 +1,7 @@
 ;
 ; Created on Sunday, 3rd of May 2025 at 11:39
+; by Michael Dailly 2025
 ; Simple Platform Engine for the ZX Spectrum next
-; © Copyright Michael Dailly 2025, All rights reserved.
 ;
 ; 
                 opt             ZXNEXT
